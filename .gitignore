@@ -3,3 +3,17 @@ Thumbs.db
 desktop.ini
 .DS_Store
 .vscode/
+
+.env
+*.env
+.env.*
+!.env.example
+credentials*.json
+*.pem
+*.key
+node_modules/
+.clasp.json
+.clasprc.json
+__pycache__/
+*.pyc
+*.log
